@@ -1,0 +1,12 @@
+*.o
+*.opp
+*.a
+*.so
+y.tab.*
+Makefile
+Makefile.top
+config.*
+configure
+autom4te.cache
+install-sh
+fence_virtd.init
